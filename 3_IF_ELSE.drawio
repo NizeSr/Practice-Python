@@ -81,17 +81,6 @@
             <root>
                 <mxCell id="VugjiUq84hQ5dGGGW8jP-0"/>
                 <mxCell id="VugjiUq84hQ5dGGGW8jP-1" parent="VugjiUq84hQ5dGGGW8jP-0"/>
-                <mxCell id="ftlkmOREDc-FCtSrlEtA-2" style="edgeStyle=none;html=1;strokeColor=#000000;" parent="VugjiUq84hQ5dGGGW8jP-1" source="ftlkmOREDc-FCtSrlEtA-0" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="410" y="400" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="ftlkmOREDc-FCtSrlEtA-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6F0000;fillColor=#a20025;fontColor=#ffffff;" parent="VugjiUq84hQ5dGGGW8jP-1" vertex="1">
-                    <mxGeometry x="370" y="240" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="ftlkmOREDc-FCtSrlEtA-4" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFF00;" parent="VugjiUq84hQ5dGGGW8jP-1" vertex="1">
-                    <mxGeometry x="370" y="400" width="80" height="80" as="geometry"/>
-                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
