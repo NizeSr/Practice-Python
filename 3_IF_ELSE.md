@@ -16,6 +16,12 @@ if condition1:
 else:  
 &emsp;&thinsp;&nbsp; operation2
 
-![](https://github.com/NizeSr/Practice-Python/blob/main/Flowchart_Images/IF_ELSE_2.png?raw=true)  
+ 
 
----
+---  
+#### 3.  
+
+if condition1:  
+&emsp;&thinsp;&nbsp; operation1  
+operation2  
+
